@@ -134,10 +134,6 @@ install.packages(c("tidyverse", "caret", "rpart", "rpart.plot",
 source("shopping_analysis.r")
 ```
 
-> Make sure `shopping_behavior_updated.csv` is in the same folder as the script.
-
----
-
 ## Author
 
 **Annu Choudhary**
